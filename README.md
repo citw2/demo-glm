@@ -2,7 +2,7 @@
 
 **GLM + a memory you own. One client-side-encrypted store. Erasure you can prove.**
 
-> ⭐ **Star this repo and share it** — help every agent get portable, provable memory. [Share on X](https://x.com/intent/tweet?text=GLM%20with%20a%20memory%20you%20own%20-%20portable%2C%20encrypted%2C%20provably%20erasable%20-%20via%20SAIHM.&url=https%3A%2F%2Fgithub.com%2Fcitw2%2Fdemo-glm).
+> ⭐ **[Star SAIHM on GitHub](https://github.com/SAIHM-Admin/saihm-mcp)** and share it — help every agent get portable, provable memory. [Share on X](https://x.com/intent/tweet?text=GLM%20with%20a%20memory%20you%20own%20-%20portable%2C%20encrypted%2C%20provably%20erasable%20-%20via%20SAIHM.&url=https%3A%2F%2Fgithub.com%2Fcitw2%2Fdemo-glm).
 
 A tiny, runnable demo of [SAIHM](https://saihm.coti.global) wired to **GLM**: it stores three personal facts, grounds GLM in them, then **forgets** one fact and shows GLM can no longer use it — provable erasure (GDPR Art. 17). The very same memory is portable to any other model.
 
